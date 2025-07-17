@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matheomontec  
+- 👋 Hi, I’m Montecot Mathéo  
   I'm a French student at the University of Lyon (UCBL), pursuing a Master's in Nanoscale Engineering (Nanotechnology & Nanomaterials).
 
 - 👀 I’m interested in Nanotechnology, R&D in new materials using biomimicry for health or sports, and the development of innovative solutions for real-world problems.
